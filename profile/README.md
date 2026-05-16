@@ -10,7 +10,7 @@ Some repositories contain a CONTRIBUTING.md which gives you more detail on how t
 ## Links
 
 Duck Organization has a few important links for you!
-Our [Discord](https://discord.gg/F4HYE8frK2), Our [Status Page](https://status.duckorg.com/) and ofcourse our [Documentation](https://docs.duckorg.com) for the repositories that need it.
+Our [Discord](https://duckorg.com/discord), Our [Status Page](https://status.duckorg.com/) and ofcourse our [Documentation](https://docs.duckorg.com) for the repositories that need it.
 
 ## Fun Facts
 
